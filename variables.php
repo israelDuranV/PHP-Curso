@@ -42,4 +42,5 @@ $codigo_producto = NULL;
 var_dump($codigo_producto);
 */
 
+/*Comentario hecho por Gonzalo*/
 ?>
